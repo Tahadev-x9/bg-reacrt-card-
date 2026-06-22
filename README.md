@@ -1,16 +1,42 @@
-# React + Vite
+React Background Card UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React + Vite project showcasing beautiful travel destination cards with full-card background images,
+gradient overlays, and elegant typography. The design focuses on creating visually appealing destination cards suitable for travel, portfolio, or landing page websites.
 
-Currently, two official plugins are available:
+Netlify preview : 
+                    https://bg-react-card.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
 
-## React Compiler
+🎨 Modern UI with clean aesthetics
+📱 Fully responsive design
+🖼️ Full-card background images
+🌑 Smooth gradient overlay for text readability
+⚛️ Built with React and Vite
+🧩 Reusable Card component
+📂 Dynamic card rendering using an array of objects
+💨 Fast development with Vite
+🎯 Easy to customize and extend
+📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+React.js
+Vite
+JavaScript (ES6+)
+CSS3 / CSS Modules
+HTML5
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📁 Folder Structure
+
+src/
+│
+├── assets/
+│   ├── images/
+│
+├── components/
+│   ├── Card.jsx
+│
+├── App.jsx
+├── App.css
+├── main.jsx
