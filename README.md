@@ -29,14 +29,4 @@ HTML5
 
 📁 Folder Structure
 
-src/
-│
-├── assets/
-│   ├── images/
-│
-├── components/
-│   ├── Card.jsx
-│
-├── App.jsx
-├── App.css
-├── main.jsx
+src main app jsx
