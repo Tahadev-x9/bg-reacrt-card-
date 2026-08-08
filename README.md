@@ -20,9 +20,9 @@ Netlify preview :
 📸 Preview
 
 🛠️ Tech Stack
-
-React.js
-Vite
+react js
+vite 
+create simple fnrt
 JavaScript (ES6+)
 CSS3 / CSS Modules
 HTML5
