@@ -29,4 +29,24 @@ HTML5
 
 📁 Folder Structure
 
-src main app jsx
+src main
+app jsx
+style css 
+app  css
+
+# What i learned 
+- Making component use efficient
+- Many input but one skeleton
+- Different section
+- Learning state function  
+- UseState effects
+- Use of tailwind css
+- Pure Modification
+-
+-
+-
+
+
+
+
+
