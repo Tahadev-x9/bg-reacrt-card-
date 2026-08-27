@@ -1,4 +1,4 @@
-React background Card UI
+ # React background Card UI
 
 A modern and responsive React + Vite project showcasing beautiful travel destination cards with full-card background images,
 gradient overlays, and elegant typography. The design focuses on creating visually appealing destination cards suitable for travel, portfolio, or landing page websites.
@@ -6,7 +6,7 @@ gradient overlays, and elegant typography. The design focuses on creating visual
 Netlify preview : 
                     https://bg-react-card.netlify.app/
 
-✨ Features
+ # ✨ Features
 
 🎨 Modern UI with clean aesthetics
 📱 Fully responsive design
@@ -19,15 +19,15 @@ Netlify preview :
 🎯 Easy to customize and extend
 📸 Preview
 
-🛠️ Tech Stack
+ # 🛠️ Tech Stack
 react js
-vite 
+vite  
 create simple fnrt
 JavaScript (ES6+)
 CSS3 / CSS Modules
 HTML5
 
-📁 Folder Structure
+# 📁 Folder Structure
 
 src main
 app jsx
