@@ -43,7 +43,7 @@ app  css
 - Use of tailwind css
 - Pure Modification
 
-Hl0o my new work is under progress so right now this works is only applicable and available to see and reuse 
+
 
 
 Regards : M taha 
