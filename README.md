@@ -18,6 +18,11 @@ Netlify preview :
 💨 Fast development with Vite
 🎯 Easy to customize and extend
 📸 Preview
+hlo
+dynamix look
+aesthethic one 
+looking nice
+very fun
 
  # 🛠️ Tech Stack
 react js
