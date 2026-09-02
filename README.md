@@ -2,6 +2,7 @@
 
 A modern and responsive React + Vite project showcasing beautiful travel destination cards with full-card background images,
 gradient overlays, and elegant typography. The design focuses on creating visually appealing destination cards suitable for travel, portfolio, or landing page websites.
+Modern webpage as landing one to make the thing pure and real and aesthethic ones ... 
 
 Netlify preview : 
                     https://bg-react-card.netlify.app/
