@@ -19,7 +19,9 @@ Netlify preview :
 💨 Fast development with Vite
 🎯 Easy to customize and extend
 📸 Preview
-hlo
+Best in quality profession. 
+prop used 
+component jsx
 dynamix look
 aesthethic one 
 looking nice
