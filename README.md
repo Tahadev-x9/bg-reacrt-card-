@@ -18,11 +18,16 @@ Netlify preview :
 📂 Dynamic card rendering using an array of objects
 💨 Fast development with Vite
 🎯 Easy to customize and extend
-📸 Preview
+
+
+# 📸 Preview
 Best in quality profession. 
 prop used 
 component jsx
 dynamix look
+aesthetic posture 
+landing page 
+bedt transition
 aesthethic one 
 looking nice
 very fun
