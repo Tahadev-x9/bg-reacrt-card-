@@ -39,7 +39,8 @@ create simple fnrt
 JavaScript (ES6+)
 CSS3 / CSS Modules
 HTML5
-
+Basic ui and better quality product and better mapping 
+efficient and local structure better ui.. 
 # 📁 Folder Structure
 
 src main
